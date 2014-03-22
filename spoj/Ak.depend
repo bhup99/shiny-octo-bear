@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1361522686 source:c:\users\bhupesh\documents\c-programs\ak\main.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+
+1389246332 source:c:\users\bhupesh\documents\programming\c-programs\ak\main.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+
