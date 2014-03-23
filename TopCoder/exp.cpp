@@ -43,5 +43,5 @@ class TaroString
 int main()
 {
     TaroString ob;
-    cout << ob.getAnswer("SGHDJHFIOPUFUHCHIOJBHAUINUIT");
+    cout << ob.getAnswer("NOKCVFJFRMXOHAOWKBJZWUTWLJFRIMPMYHHZRIWKBRXBGFBEYH");
 }
